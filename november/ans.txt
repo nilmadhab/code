@@ -1,0 +1,18 @@
+4 ['aabb', 'bbaa'] 2
+5 ['aaaba', 'aaabb', 'aabab', 'aabbb', 'abaaa'] 3
+6 ['aaabab', 'aaabbb', 'aababb', 'ababbb', 'babaaa'] 3
+7 ['aaababb', 'aababbb', 'bbabaaa', 'bbbabaa'] 3
+8 ['aaababbb', 'bbbabaaa'] 3
+9 ['aaaababba', 'aaaababbb', 'aaaabbaba', 'aaababbaa', 'aaababbbb'] 4
+10 ['aaaababbaa', 'aaaababbbb', 'aaaabbabaa', 'aaababbaaa', 'aaababbaab'] 4
+11 ['aaaababbaaa', 'aaaababbaab', 'aaaabbabaaa', 'aaaabbabaab', 'aaababbaaaa'] 4
+12 ['aaaababbaaaa', 'aaaababbaaba', 'aaaabbabaaaa', 'aaaabbabaabb', 'aaababbaabab'] 4
+13 ['aaaababbaabab', 'aaaabbabaabba', 'aaaabbabaabbb', 'aaababbaababb', 'aaabbabaabbab'] 4
+14 ['aaaababbaababb', 'aaaabbabaabbab', 'aaaabbabaabbbb', 'aaababbaababba', 'aaababbaababbb'] 4
+15 ['aaaababbaababba', 'aaaababbaababbb', 'aaaabbabaabbaba', 'aaababbaababbaa', 'aaababbaababbbb'] 4
+16 ['aaaababbaababbaa', 'aaaababbaababbbb', 'aaaabbabaabbabaa', 'aaababbaababbaaa', 'aaababbaababbaab'] 4
+17 ['aaaababbaababbaaa', 'aaaababbaababbaab', 'aaaabbabaabbabaaa', 'aaaabbabaabbabaab', 'aaababbaababbaaaa'] 4
+18 ['aaaababbaababbaaaa', 'aaaababbaababbaaba', 'aaaabbabaabbabaaaa', 'aaaabbabaabbabaabb', 'aaababbaababbaabab'] 4
+19 ['aaaababbaababbaabab', 'aaaabbabaabbabaabba', 'aaaabbabaabbabaabbb', 'aaababbaababbaababb', 'aaabbabaabbabaabbab'] 4
+20 ['aaaababbaababbaababb', 'aaaabbabaabbabaabbab', 'aaaabbabaabbabaabbbb', 'aaababbaababbaababba', 'aaababbaababbaababbb'] 4
+21 ['aaaababbaababbaababba', 'aaaababbaababbaababbb', 'aaaabbabaabbabaabbaba', 'aaababbaababbaababbaa', 'aaababbaababbaababbbb'] 4

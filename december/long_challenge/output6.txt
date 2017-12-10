@@ -1,0 +1,7 @@
+0 12  i and cost
+1 11  i and cost
+2 10  i and cost
+3 9  i and cost
+4 11  i and cost
+3  binary search  3 9 cost_x, cost_check ( 5 6 9 2 1 1 ) x-i 2
+9

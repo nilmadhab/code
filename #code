@@ -1,0 +1,14 @@
+		#code
+
+l, r, x, y, k = map(int, raw_input().split(" "))
+flag = False
+for i in range(x, y+1):
+    if int(k*i) >= l and int(k*i) <= r:
+        flag = True
+        break
+
+if flag:
+    print "YES"
+else:
+    print "NO" 
+    
